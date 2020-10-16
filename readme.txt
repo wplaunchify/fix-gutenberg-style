@@ -1,6 +1,6 @@
 === Plugin Name ===
 /**
- * Plugin Name:	Fix Gutenbrg Style
+ * Plugin Name:	Fix Gutenberg Style
  * Plugin URI:	https://launchflows.com
  * Description:	Make Gutenberg Editor Look More Like Classic Editor
  * Version:		1.0
@@ -9,7 +9,7 @@
  * Text Domain: lf
  *
 
-Make Gutenb*rg Look More Like Classic Editor.
+Make Gutenberg Editor Look More Like Classic Editor.
 
 == Description ==
 
