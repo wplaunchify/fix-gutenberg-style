@@ -1,10 +1,10 @@
 <?php
 /**
- * Plugin Name:	Fix Gutenbrg Style
+ * Plugin Name:	Fix Gutenb*rg Style
  * Plugin URI:	https://launchflows.com
- * Description:	Make Gutenberg Editor Look More Like Classic Editor
- * Version:		1.0
- * License:		GPL-2.0+
+ * Description:	Make Gutenb*rg Editor Look More Like Classic Editor
+ * Version: 1.0
+ * License: GPL-2.0+
  * License URI:	http://www.gnu.org/licenses/gpl-2.0.txt
  * Text Domain: lf
  *
