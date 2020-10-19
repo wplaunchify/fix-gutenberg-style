@@ -6,7 +6,8 @@
  * Version:	1.0
  * License:	GPL-2.0+
  * License URI:	http://www.gnu.org/licenses/gpl-2.0.txt
- * Text Domain: lf
+ * Text Domain: fix-gutenberg-style
+ * Tested Up To: 5.5.1
  *
 
 Make Gutenberg Editor Look More Like Classic Editor.
